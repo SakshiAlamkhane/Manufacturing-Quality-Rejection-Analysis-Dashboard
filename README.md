@@ -75,7 +75,7 @@ This dashboard supports data-driven quality monitoring by helping teams prioriti
 
 ## 📷 Dashboard Preview
 
-![Manufacturing Quality & Rejection Analysis Dashboard](manufacturing and rejection analysis dashboard.png)
+![Manufacturing & Rejection Analysis Dashboard](<manufacturing and rejection analysis dashboard.png>)
 
 ## 👩‍💻 Author
 
